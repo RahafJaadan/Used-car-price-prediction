@@ -35,8 +35,10 @@ The dataset was gathered from the **Cardheko** website, containing various attri
 ## How to Run the Project
   1. Clone the repository to your local machine.
   2. Install the required libraries:
-     ``` pip install pandas numpy seaborn matplotlib scikit-learn```
-  3. Run the Jupyter notebook or Python script to see data analysis and model predictions.
+
+      ``` pip install pandas numpy seaborn matplotlib scikit-learn```
+     
+  4. Run the Jupyter notebook or Python script to see data analysis and model predictions.
 
 ## Project Structure
 * data/: Contains the dataset used for training and testing.
